@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Using the Redis NoSQL data storage.
 """
 import uuid
